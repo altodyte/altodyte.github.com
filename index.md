@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: altodyte
+tagline: the personal website testing ground of Bill Warner
 ---
 {% include JB/setup %}
 

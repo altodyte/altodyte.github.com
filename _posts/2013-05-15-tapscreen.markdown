@@ -2,7 +2,7 @@
 layout: post
 title:  "Acoustic Touchscreen"
 date:   2013-05-15 12:00:00 -0400
-img: img/portfolio/touchscreen.png
+img: img/portfolio/tapscreen.png
 modalID: modalRWM
 category: Academic
 ---

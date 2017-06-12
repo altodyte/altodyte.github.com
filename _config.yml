@@ -9,12 +9,12 @@
 title: Bill Warner
 email: bill@warner.io
 description: > # this means to ignore newlines until "baseurl:"
-  Web Developer - Graphic Artist - User Experience Designer
+  Robotics Engineer
 baseurl: "/altodyte.github.com" # the subpath of your site, e.g. /blog
 url: "http://altodyte.github.io" # the base hostname & protocol for your site
 
 # Social media profiles - feel free to add more here
-twitter_username: altodyte
+# twitter_username: altodyte
 github_username:  altodyte
 # facebook_username: altodyte
 #instagram_username: beyonce
@@ -24,7 +24,7 @@ github_username:  altodyte
 linkedin_url: https://linkedin.com/in/altodyte
 
 # Address information
-# address_street: 3034 Melrose Place
+address_street: 
 address_city: Cambridge
 address_state: MA
 address_zip: 02140

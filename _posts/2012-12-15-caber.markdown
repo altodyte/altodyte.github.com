@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Caber Toss Simulation"
+date:   2012-12-15 12:00:00 -0400
+img: img/portfolio/asciify.png
+modalID: modalCaber
+category: Academic
+---
+_Modeled and simulated the preposterous sport of caber-tossing to find the best way to toss the caber for distance._
+
+This was my final class project for an introductory course at Olin which explores mathematical modeling and computer simulation of physical systems. A partner and I came up with a model for the dynamics of the "caber for distance" event held at Scottish Highland Games athletic competitions, validated it with edge cases and real data, then simulated various styles of throws and were uniformly amazed by the skill of the athletes. Successful throws of the caber, an approximately twenty foot long wooden post weighing more than one hundred pounds, required not only brute lifting strength but also excellent timing for a proper release angle and the ability to run while balancing the caber. We found the optimal regions for these parameters and our results tracked well with the performance of athletes observed.

@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Asciify"
+date:   2013-05-15 13:00:00 -0400
+img: img/portfolio/asciify.png
+modalID: modalAsciify
+category: Academic
+---
+_Created a suite of programs for converting video to ASCII art video, including live webcam imagery._
+
+As a final project for a software design class at Olin, my team built several different applications which converted video into ASCII art representations of those videos. Our final products were capable of rapidly converting a variety of video file types (as long as feature length films) into ASCII art with complexity ranging from pseudo-grayscale using relative apparent pixel densities of different characters to edge detection and matching using advanced image processing and a dedicated edge character set. My primary contributions were to the underlying greyscale ASCII-art conversion used in all the applications and to all layers of the live webcam ASCII art, as well as some of the mathematics for the fast edge-detection approach. For more information about the project, please visit the [project repository][project-repo-link] or check out a [video demo][mulan-ascii-link] of [the project][minaj-ascii-link] [in action][heman-ascii-link].
+
+[project-repo-link]: https://github.com/madisonmay/Asciify_Final
+[mulan-ascii-link]: https://www.youtube.com/watch?v=af4gMgePkQY&index=1&list=PLnyGlMNw9pZi7N_MMsmtkg6d-lCbpZ9Eh
+[minaj-ascii-link]: https://www.youtube.com/watch?v=9hfO1_fwwO4
+[heman-ascii-link]: https://www.youtube.com/watch?v=sXPIKDDCggw

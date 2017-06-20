@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Robotic Tugboat"
+date:   2012-12-15 12:00:00 -0400
+img: img/portfolio/tugboat.png
+modalID: modalTugboat
+category: Academic
+---
+_Introductory execution of fundamental robotics concepts and methods for sensing, thinking, and acting using a tricked-out model tugboat._
+
+This was my final class project for the introductory robotics course at Olin. We were introduced to paradigms of behavior-based robotics, runtime-layered hierarchies, as well as other robotic brain architectures.

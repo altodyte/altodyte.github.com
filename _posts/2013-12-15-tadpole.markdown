@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Robotic Tadpole"
+date:   2013-12-15 12:00:00 -0400
+img: img/portfolio/tadpole.jpg
+modalID: modalTadpole
+category: Academic
+---
+_Summary_
+
+Details

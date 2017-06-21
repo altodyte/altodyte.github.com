@@ -2,10 +2,14 @@
 layout: post
 title:  "Robotic Tadpole"
 date:   2013-12-15 12:00:00 -0400
-img: img/portfolio/tadpole.jpg
+img: img/portfolio/sparky.jpg
 modalID: modalTadpole
 category: Academic
 ---
-_Summary_
+_Created a robotic surface vessel used to explore optimization of swim gait_
 
-Details
+I created this robot with a team as the final project for Olin's Principles of Engineering class. As the first phase of the project, we researched the swimming dynamics of various fish and other aquatic creatures. After prototyping with unusual actuators and geometries, we created a relatively simple mechanical design of a multiple-link, servomotor-separated, serpentine body with a proportionally large head. This surface vehicle was used for optimization of the joint motions required to swim quickly by means of an overhead camera to track position time-series and a customized genetic algorithm to explore the parameter space. A demonstration of the optimized swimming behavior can be found [here][mike-ember].
+
+[project-website-link]: http://poe.olin.edu/poe2014/smacfish/index.html
+[mike-videos]: https://www.youtube.com/channel/UC-I5tu4ZAoep77qelfoNFdg
+[mike-ember]: https://www.youtube.com/watch?v=UUcKcXS66n8

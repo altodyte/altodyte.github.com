@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  ""
+title:  "Locus Robotics SCOPE Project"
 date:   2015-12-15 12:00:00 -0400
 img: img/portfolio/locus.png
-modalID: modal
+modalID: modalLocus
 category: Academic
 ---
 _Summary_

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  ""
+title:  "Draper Laboratory SCOPE Project"
 date:   2017-05-15 12:00:00 -0400
 img: img/portfolio/draper.png
-modalID: modal
+modalID: modalDraper
 category: Academic
 ---
 _Summary_

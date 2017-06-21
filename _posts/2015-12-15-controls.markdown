@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  ""
+title:  "Balancing Bot"
 date:   2015-12-15 12:00:00 -0400
 img: img/portfolio/controls.png
-modalID: modal
+modalID: modalControls
 category: Academic
 ---
 _Summary_
